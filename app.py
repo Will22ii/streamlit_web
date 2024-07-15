@@ -18,7 +18,7 @@ data = pd.DataFrame({
 })
 
 # Display the data
-st.write('### Generated Data', data)
+st.write('### leehyun sang Data', data)
 
 # Plot the data
 st.write('### Chart')
